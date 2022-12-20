@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/ankushkgupta">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=200&multiline=true&width=500&height=100&lines=Ankush+K.+Gupta;&#8594; Data+Scientist++(AI/ML)+=Researcher;&#8594; AI+%7C+Computer+Vision+%7C+Quantum+Computing;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=200&multiline=true&width=500&height=100&lines=Ankush+K.+Gupta;&#8594; Data+Scientist+(AI/ML)++Researcher;&#8594; AI+%7C+Computer+Vision+%7C+Quantum+Computing;" alt="Typing SVG" />
 </a>
 <br/>
 
