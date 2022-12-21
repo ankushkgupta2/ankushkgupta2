@@ -24,7 +24,7 @@
 </a>
     
 <details>
-<summary> Skills</summary>
+<summary>:bowtie: Skills</summary>
 <br>
     
 <table>
