@@ -23,7 +23,21 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=ankushkgupta2&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 
 <details>
-<summary>:bowtie: Skills</summary>
+<summary> Skills</summary>
 <br>
+    
+<table>
+<tr><th>Languages + Frameworks </th><th>Cloud + Container </th><th>CLI</th></tr>
+<tr><td>
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,r,java,matlab,perl,mysql,scala,md,pytorch,tensorfow&theme=light&perline=5)](https://skills.thijs.gg)
+</td><td>
+    
+[![My Skills](https://skills.thijs.gg/icons?i=azure,aws,gcp,docker&theme=light&perline=5)](https://skills.thijs.gg)
+</td><td>
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,bash,powershell&theme=light&perline=3)](https://skills.thijs.gg)
+    
+</table>
+    
 <br>
