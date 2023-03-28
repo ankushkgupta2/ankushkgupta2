@@ -14,19 +14,23 @@
 </a>
     
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
-    
+
+### ```About Me``` &nbsp;:smile:
+* Current Endeavors:
+    * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Data Scientist (Consultant) at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
+* My Background:
+    * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher at UMD CS (Neuromorphic Deep Vision in Robotics)
+    * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH (IRTA Fellow) (Comp Neuro + Physics) and VCU SOM (Biophysics)
+    * &nbsp; ⚛️ &nbsp;&nbsp;&nbsp; Former Nanotechnology Researcher at Johns Hopkins Sidney Kimmel Cancer Center
+
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+
+### ```Some of My Skills``` &nbsp;🛠️
+
 <!-- <a href="https://github.com/ankushkgupta2">
     <img src="https://github-readme-stats.vercel.app/api?username=ankushkgupta2&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/ankushkgupta2">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ankushkgupta2&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-    
-<details>
-<summary>:bowtie: Skills</summary>
-<br>
-    
 <table>
 <tr><th>Languages + Frameworks </th><th>Cloud + Container </th><th>CLI</th></tr>
 <tr><td>
@@ -42,3 +46,26 @@
 </table>
     
 <br>
+
+**```Not Shown:```**
+* Groovy
+* C/C++
+* Go
+* Nextflow and Nextflow Tower 
+* Spark/PySpark
+* Hadoop
+* Kubernetes
+* Django
+* Flask
+* Singularity
+* HPC
+
+
+:wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
+
+### ```Stats``` &nbsp;:bar_chart:
+
+<a href="https://github.com/ankushkgupta2">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ankushkgupta2&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+    
