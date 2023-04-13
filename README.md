@@ -68,6 +68,7 @@
 
 ![GitHub stats](https://img.shields.io/github/stars/ankushkgupta2?style=social) ![GitHub followers](https://img.shields.io/github/followers/ankushkgupta2?style=social)
     
-![Ankush Kumar Gupta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankushkgupta2&show_icons=true&theme=radical)
-    
-![Ankush Kumar Gupta's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankushkgupta2&theme=radical)
+<div>
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ankushkgupta2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ankush%27s%20GitHub%20Stats" />
+  <img align="right" width="50%" style="margin-left: -10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkgupta2&theme=radical" />
+</div>
