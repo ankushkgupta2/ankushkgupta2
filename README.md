@@ -18,7 +18,7 @@
 ### ```About Me``` &nbsp;:smile:
 * Current Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Data Scientist (Consultant) at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
-    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science Graduate Student at UPENN (Dual-Degree Master's)
+    * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science + Data Science Graduate Student at UPENN (Dual-Degree Master's)
 * My Background:
     * &nbsp; 🤖 &nbsp;&nbsp;&nbsp; Former Visting Researcher at UMD CS (Neuromorphic Deep Vision in Robotics)
     * &nbsp; 🧠 &nbsp;&nbsp;&nbsp; Former Neuroscience Researcher at NIH (IRTA Fellow) (Comp Neuro + Physics) and VCU SOM (Biophysics)
