@@ -70,5 +70,5 @@
     
 <div style="display: flex; justify-content: space-between;">
   <img width="44%" style="padding-right: 50px;" src="https://github-readme-stats.vercel.app/api?username=ankushkgupta2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ankush%27s%20GitHub%20Stats" />
-  <img width="44%" style="padding-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkgupta2&theme=radical" />
+  <img width="46.5%" style="padding-left: 50px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkgupta2&theme=radical" />
 </div>
