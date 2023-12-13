@@ -64,7 +64,7 @@
 
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
-### ```Stats``` &nbsp;:bar_chart:
+### ```Stats``` &nbsp; :bar_chart:
 
 ![GitHub stats](https://img.shields.io/github/stars/ankushkgupta2?style=social) ![GitHub followers](https://img.shields.io/github/followers/ankushkgupta2?style=social)
     
