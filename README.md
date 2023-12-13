@@ -15,7 +15,7 @@
     
 :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash: :wavy_dash:
 
-### ```About Me``` &nbsp;:smile:
+### ```About Me``` &nbsp; :smile:
 * Current Endeavors:
     * &nbsp; :computer: &nbsp;&nbsp;&nbsp; Data Scientist (Consultant) at Deloitte Consulting LLP (Fed Health, Quantum Computing, AI/ML Research)
     * &nbsp; :pencil2: &nbsp;&nbsp;&nbsp; Computer Science + Data Science Graduate Student at UPENN
